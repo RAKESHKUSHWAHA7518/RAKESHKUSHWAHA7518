@@ -7,10 +7,14 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kushwaha</h1>
 <h3 align="center">Frontend Developer || Web Developer</h3>
 
+
+
 <h4>I'm Rakesh Kushwaha, a passionate software developer who loves turning ideas into code. Welcome to my GitHub playground! 🚀 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAKESHKUSHWAHA7518&label=Profile%20views&color=0e75b6&style=flat" alt="RAKESHKUSHWAHA7518" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAKESHKUSHWAHA7518&theme=" alt="RAKESHKUSHWAHA7518" /></a> </p>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 👋 Hi, I’m ** RAKESH KUSHWAHA**
 - 👀 I’m interested in **Software Developer Role**
@@ -60,9 +64,9 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKESHKUSHWAHA7518&langs_count=8&theme=dark" alt=RAKESHKUSHWAHA7518 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RAKESHKUSHWAHA7518&show_icons=true&locale=en&theme=" alt="RAKESHKUSHWAHA7518" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RAKESHKUSHWAHA7518&show_icons=true&locale=en&theme=dark" alt="RAKESHKUSHWAHA7518" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESHKUSHWAHA7518&theme=" alt="RAKESHKUSHWAHA7518" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RAKESHKUSHWAHA7518&theme=dark" alt="RAKESHKUSHWAHA7518" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
