@@ -5,7 +5,7 @@
 <h1 align ="center"> Hello, World! 👋</h1>
 
 <h1 align="center">Hi 👋, I'm Rakesh Kushwaha</h1>
-<h3 align="center">Frontend Developer || Web Developer</h3>
+<h3 align="center">Frontend Developer || Web Developer|| Full Stack Developer || Bot Developer</h3>
 
 
 
@@ -22,8 +22,9 @@
 - 📫 How to reach me rk7518329420@gmail.com
 
 
-- 🔭 I’m currently working on **Chegg **
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently working on **Mindcraft Labs**
+- 🔭  I have currently  8 months of Internship experience
+- 🌱 I’m currently learning **Gen AI Application **
 
 - 📫 How to reach me **rk7518329420@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/RAKESHKUSHWAHA7518**
